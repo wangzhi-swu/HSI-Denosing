@@ -5,7 +5,7 @@ Matlab Code for hyperspectral image denoising:
 Reference:
 Tianyu Liu, Dong Hu, Zhi Wang*, Jianping Gou, and Wu Chen. Hyperspectral Image Denoising Using Non-convex Fraction Function. 2023.
 
-This code is written by Tianyu Liu, Southwest Universiy, 2022
+This code is written by Tianyu Liu under the guidance of Dr. Zhi Wang, Southwest Universiy, 2022
 
 For algorithm interpretation, please read our paper, in which more details are demonstrated.
 
